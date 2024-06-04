@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.player-container {
+  border-radius: 8px;
+  background-color: #dedcda;
+}
+
+.recorder-container {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-radius: 8px;
+  background-color: #dedcda;
+  padding: 20px;
+  width: fit-content;
+}
